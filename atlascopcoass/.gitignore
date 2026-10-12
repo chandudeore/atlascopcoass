@@ -1,0 +1,66 @@
+Build results and compilation output
+
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rms/
+[Aa]rm64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+Visual Studio cache and settings
+
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+Visual Studio Code
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+JetBrains Rider / ReSharper
+
+.idea/
+*.DotSettings.user
+
+User-specific files & local settings
+
+appsettings.Development.json
+appsettings.*.local.json
+*.local.json
+
+NuGet packages
+
+*.nupkg
+*.snupkg
+/packages/
+!/packages/build/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.assets.json
+
+OS generated files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+Rider & profiling
+
+_ReSharper*/
+*.resharper
+*.dotCover
