@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("atlascopcoass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bcf4da412d888f3e3ac9b817b1b587853c3f3af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f215d66b8a47beefe1d7d8464be5f0b5d3f4dfc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("atlascopcoass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("atlascopcoass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
